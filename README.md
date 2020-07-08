@@ -16,3 +16,4 @@ first list out the subdomains in a list.txt (with http/https) you can use httpor
 
 
 
+![Test Image 1](https://github.com/GovindPalakkal/Cve-2020-5029-finder/blob/master/Screen%20Shot%202020-07-08%20at%204.54.59%20PM.png)
